@@ -38,6 +38,5 @@ I also work as a Life Insurance Producer at Symmetry Financial Group while I fin
 ---
 
 ## 📬 Connect With Me  
-- 💼 [LinkedIn](www.linkedin.com/in/kaylee-arpin-333770249)  
-- 💻 [GitHub](https://github.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/kaylee-arpin-333770249)   
 - ✉️ Email: kayleea2003@icloud.com
