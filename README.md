@@ -25,6 +25,7 @@ I also work as a Life Insurance Producer at Symmetry Financial Group while I fin
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [Home Cyber Lab Setup](https://github.com/KayleeA-tech/Home-Cyber-Lab) | Built a virtual cybersecurity lab with UTM for testing | UTM, Ubuntu Linux, macOS |
+| [Basic Linux Commmand-Line Operations](https://github.com/KayleeA-tech/Basic-Command-Line-Operations) | Demonstrated foundational Linux skills within a VM. Practiced creating directories, editing files, copying, and navigating the filesystem. | UTM, Ubuntu Linux, `vi` text editor |
 | [Network Scan & Report](#) | Scanned a network and documented vulnerabilities | Nmap, Wireshark |
 | [SIEM Log Analysis](#) | Analyzed Windows logs in Splunk to detect failed logins | Splunk, Sysmon |
 
