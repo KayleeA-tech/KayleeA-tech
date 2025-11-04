@@ -14,9 +14,8 @@ I also work as a Life Insurance Producer at Symmetry Financial Group while I fin
 ---
 
 ## Tools and Skills
-**Operating Systems** Windows, Linux (Ubuntu)
-**Security Tools** Wireshark,
-**Networking**
+**Operating Systems** Windows, Linux (Ubuntu), macOS
+**Security Tools** Wireshark
 **Languages** Python (beginner), Bash
 
 ---
