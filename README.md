@@ -1,7 +1,7 @@
 # Hi, I'm Kaylee
 
 I'm a **Cybersecurity student** building practical skills through hands-on labs and a personal virtual lab.  
-I also work as a Life Insurance Producer at Symmetry Financial Group while I finish school — learning security in my spare time.
+I also work as a Life Insurance Producer at Symmetry Financial Group while I finish school and learn security in my spare time.
 
 ---
 
