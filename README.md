@@ -24,7 +24,7 @@ I also work as a Life Insurance Producer at Symmetry Financial Group while I fin
 ## 🧪 Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Home Cyber Lab Setup](#) | Built a virtual cybersecurity lab with VirtualBox for testing | VirtualBox, Kali Linux, Windows 10 |
+| [Home Cyber Lab Setup](https://github.com/KayleeA-tech/Home-Cyber-Lab) | Built a virtual cybersecurity lab with VirtualBox for testing | VirtualBox, Kali Linux, Windows 10 |
 | [Network Scan & Report](#) | Scanned a network and documented vulnerabilities | Nmap, Wireshark |
 | [SIEM Log Analysis](#) | Analyzed Windows logs in Splunk to detect failed logins | Splunk, Sysmon |
 
